@@ -8,3 +8,5 @@
 __pycache__/
 # Secrets file (important if working with API keys or other sensitive information)
 *secrets.json
+
+*.gitignore
